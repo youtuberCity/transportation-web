@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h3><font face="verdana" color="MAGENTA">8th Street (HBLR)</font></h3>
+<div>
+<p><font face="verdana" color="BLACK">8th Street is a station on the Hudson–Bergen Light Rail (HBLR) located at Avenue C and West 8th Street in Bayonne, New Jersey. It is the southern terminus for the route traveling northbound towards Hoboken Terminal, where it terminates.</font></p>
+<div>
+<h3><font face=verdana color=MAGENTA>Lines & Schedules</font></h3>
+<div>
+<p><font face="verdana" color="BLACK">This station services the Hudson Bergen Light Rail main line.</font></p>
+<p><font face="verdana" color="BLACK">Schedules can be found at</font><font face="verdana" color="MAGENTA"> http://m.njtransit.com/mo/mo_servlet.srv?hdnPageAction=LightRailSchedulesTo</font></p>
+<div>
+<h3><font face=verdana color=MAGENTA>Station Accessibility</font></h3>
+<div>
+<p><font face=verdana color=BLACK>Elevator ✓</font></p>
+<p><font face=verdana color=BLACK>Stairs ✓</font></p>
+<p><font face=verdana color=BLACK>Heated Waiting Area</font></p>
+<p><font face=verdana color=BLACK>Waiting Area ✓</font></p>
+<p><font face=verdana color=BLACK>Parking ✓</font></p>
+<p><font face=verdana color=BLACK>Transfer</font></p>
+<div>
+<h3><font face=verdana color=MAGENTA>Station Amenities</font></h3>
+<div>
+<p><font face=verdana color=BLACK>This station has no extra amenities.</font></p>
+
+</body>
+</html>
